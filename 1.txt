@@ -1,2 +1,2 @@
 "Some changes" 
-" Other changes" 
+"Other changes" 
