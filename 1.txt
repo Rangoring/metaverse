@@ -1,5 +1,2 @@
 "Some changes" 
-"Other changes" 
-"haha"
-"New Project"
-"added features"
+" Other changes" 
